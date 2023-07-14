@@ -14,10 +14,10 @@
 ## 🧭 &nbsp;About Me
 
 - 📚 Full-Stack Developer | Software Engineering graduate.
+- 🌍 3+ years freelance experience | Upwork - 100% Job Success Score 
+- 💻 Skilled at pair-programming
 - 🔭 I'm currently looking for my next job.
-
 - 🌱 I’m always studying **JavaScript**, **ReactJS**, **Rails**, and **Ruby**.
-
 - ⚡ Fun fact: I'm from <a href="https://htschool.hindustantimes.com/editorsdesk/knowledge-vine/youre-always-seven-years-behind-in-ethiopia">the past</a>
 
   <br>
@@ -78,5 +78,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Biftu_Girma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biftu-girma-3598a8126/)](https://www.linkedin.com/in/biftu-girma-3598a8126/)
 [![Gmail Badge](https://img.shields.io/badge/-biftubig@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:biftubig@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-biftu94-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/biftu94)
+[![AngelList/Wellfound Badge](https://img.shields.io/badge/AngelList-000000.svg?style=flat-square&logo=AngelList&logoColor=white)](https://wellfound.com/u/biftu-girma)
 
 </div>
