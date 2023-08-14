@@ -37,7 +37,6 @@
 
 ## 📚 &nbsp;Currently studying
 
-- Ruby
 - Rails
 
 </div>
