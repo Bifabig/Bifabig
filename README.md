@@ -30,6 +30,7 @@
 ## 🏅 &nbsp;Certificates from [Microverse via Accredible](https://www.credential.net/7c3a0199-044b-483d-aff4-68cd73ae8676)
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/76794455" alt="react-redux-certificate" height="150" width="200"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82220770" alt="rails-certificate" height="150" width="200"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/74439991" alt="javascript-certificate" height="150" width="200"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72352018" alt="html-css-certificate" height="150" width="200"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79785349" alt="ruby-certificate" height="150" width="200"/>
