@@ -38,7 +38,7 @@
 
 ## 📚 &nbsp;Currently studying
 
-- Rails
+- Full Stack (React, Rails, Postgresql)
 
 </div>
 
