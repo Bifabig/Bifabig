@@ -13,7 +13,7 @@
 
 ## 🧭 &nbsp;About Me
 
-- 📚 Full-Stack Developer | Software Engineering graduate from <a href="https://www.microverse.org/">Microverse</a>.
+- 📚 Full-Stack Developer
 - 🌍 3+ years freelance experience | Upwork - 100% Job Success Score 
 - 💻 Skilled at pair-programming
 - 🔭 I'm currently looking for my next job.
