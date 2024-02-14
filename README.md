@@ -14,7 +14,7 @@
 ## 🧭 &nbsp;About Me
 
 - 📚 Full-Stack Developer
-- 🌍 3+ years freelance experience | Upwork - 100% Job Success Score 
+- 🌍 5 years freelance experience | Upwork - 100% Job Success Score 
 - 💻 Skilled at pair-programming
 - 🔭 I'm currently looking for my next job.
 - 🌱 I’m always studying **JavaScript**, **ReactJS**, **Rails**, and **Ruby**.
