@@ -17,7 +17,7 @@
 - 🌍 5 years freelance experience | Upwork - 100% Job Success Score 
 - 💻 Skilled at pair-programming
 - 🔭 I'm currently looking for my next job.
-- 🌱 I’m always studying **JavaScript**, **ReactJS**, **Rails**, and **Ruby**.
+- 🌱 I’m always studying **React Native**, **ReactJS**, **Rails**, and **NextJs**.
 - ⚡ Fun fact: I'm from <a href="https://htschool.hindustantimes.com/editorsdesk/knowledge-vine/youre-always-seven-years-behind-in-ethiopia">the past</a>
 
   <br>
