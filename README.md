@@ -16,8 +16,8 @@
 - 📚 Full-Stack Developer
 - 🌍 5 years freelance experience | Upwork - 100% Job Success Score 
 - 💻 Skilled at pair-programming
-- 🔭 I'm currently looking for my next job.
-- 🌱 **React Native**, **ReactJS**, **Redux**, **NextJs**, and **Ruby on Rails**.
+- 🔭 I'm currently looking for my next job
+- 🌱 **React Native**, **ReactJS**, **Redux**, **NextJs**, and **Ruby on Rails**
 - ⚡ Fun fact: I'm from <a href="https://htschool.hindustantimes.com/editorsdesk/knowledge-vine/youre-always-seven-years-behind-in-ethiopia">the past</a>
 
   <br>
