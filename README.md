@@ -13,7 +13,7 @@
 
 ## 🧭 &nbsp;About Me
 
-- 📚 Full-Stack Dev
+- 📚 Full-Stack Developer
 - 🌍 5 years freelance experience | Upwork - 100% Job Success Score 
 - 💻 Skilled at pair-programming
 - 🔭 I'm currently looking for my next job
